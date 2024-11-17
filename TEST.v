@@ -7,3 +7,5 @@ assign S=A^B;
 assign CO=A&B;
 
 endmodule
+
+moudle add
